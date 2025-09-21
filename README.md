@@ -2,9 +2,9 @@
 # TaskMate – Minggu 1–3
 
 ## Identitas
-- Nama : [Isi Nama Kamu]
-- NIM  : [Isi NIM Kamu]
-- Kelas: Informatika UNTAN - PPB
+- Nama : Muhammad Alghifari
+- NIM  : D1041221044
+- Kelas: Pemrograman Perangkat Bergerak A
 
 ---
 
