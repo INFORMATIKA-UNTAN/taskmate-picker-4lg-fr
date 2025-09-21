@@ -63,9 +63,9 @@ Proyek ini dikerjakan bertahap sesuai modul Minggu 1–3.
 ```csharp
 app/
  ├─ _layout.jsx
- ├─ index.jsx       # Home
- ├─ add.jsx         # Form tambah task
- └─ progress.jsx    # Placeholder grafik
+ ├─ index.jsx       
+ ├─ add.jsx         
+ └─ progress.jsx    
 
 src/
  ├─ components/
